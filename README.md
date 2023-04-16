@@ -273,3 +273,13 @@ https://github.com/dinger1986/TRMM-Grafana/blob/main/dashboards/clientdash.json
 https://github.com/dinger1986/TRMM-Grafana/blob/main/dashboards/clientmap.json
 
 ![Screenshot 2022-04-12 175718](https://user-images.githubusercontent.com/24654529/163067848-063280b5-6921-4550-bd3c-001175b87cfa.png)
+
+### Agent Software Dashboard
+https://github.com/lateTWoIT/trmm/blob/main/agent_view.json
+
+![Screenshot](/images/AgentSoftware.PNG)
+
+### All Agent Software Dashboard
+https://github.com/lateTWoIT/trmm/blob/main/allagentview.json
+
+![Screenshot All Agent](/images/AllAgentSoftware.PNG)
